@@ -1,0 +1,85 @@
+body
+{
+    font-family: Arial, sans-serif;
+    background-color: #0d5dae;
+}
+
+h1, h2
+{
+    color: #fff;
+    text-align: center;
+}
+
+.matchs
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+.finale
+{
+    margin-top: 30%;
+}
+
+ /* Style des matchs */
+ .match
+ {
+     text-align: center;
+     background-color: #bababb;
+     border-radius: 10px;
+     margin-left: 100px;
+     margin-right: 100px;
+     margin-bottom: 50px;
+ 
+ }
+ 
+ .date
+ {
+     padding-top: 20px;
+ }
+ 
+ .left, .right
+ {
+     width: 33%;
+     
+ }
+ 
+ .details
+ {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     
+ }
+ 
+ .score
+ {
+     font-size: 1.2rem;
+     font-weight: bold;
+ }
+
+.matchs_details .score 
+{
+    font-size: 2rem;
+}
+ 
+ .autres
+ {
+     display: flex;
+     justify-content: center;
+     gap: 10px;
+ }
+ 
+ .left .img, .right .img 
+ {
+     width: 30px;
+     height: 30px;
+     background-image: var(--flag-shield-path);
+     background-size: contain; 
+     background-position: center center; 
+     background-repeat: no-repeat; 
+     margin: auto;
+ }

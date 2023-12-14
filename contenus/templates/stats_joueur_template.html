@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">		
+		<link rel="stylesheet" type="text/css" href="../../css/stats_joueur.css"/>
+		<link rel="stylesheet" type="text/css" href="../../css/data_teams.css"/>
+        <title>Satistiques joueur {{name}}</title>
+    </head>
+
+</html>
+
+<body class="team-{{pays}}">
+	<h1 id="title">Statistiques {{name}}</h1>
+
+	<!-- informations générals -->
+	<h2>Informations générales</h2>
+	<div class="card">
+	
+		<div class="left">
+			<a href="#">
+				<img src="../../../data/informations_joueurs/{{pays}}/imgs/{{id}}.png" alt="photo joueur" width="350" height="500">
+			</a>
+		</div>
+		
+		<div class="right">
+			
+			<div class="logos">
+				<div class="shield"></div>
+				<div class="emblem"></div>
+			</div>
+			
+			<h2 id="name">{{name}}</h2>
+			<p id="position">{{position}}</p>
+			<p id="age">{{age}} ans</p>
+			<p id="height">{{height}} cm</p>
+			<p id="weight">{{weight}} kg</p>
+			<p id="hometown">{{hometown}}</p>
+		</div>
+	</div>
+	
+	<!-- statitiques générales -->
+	<h2>Statitiques générales</h2>
+	<div class="general-stats">
+		<div class="card">
+			<p id="Matches" class="general-stats-value">{{Matches}}</p>
+			<p>Matchs</p>
+		</div>
+		
+		<div class="card">
+			<p id="PointsScored" class="general-stats-value">{{PointsScored}}</p>
+			<p>Points</p>
+		</div>
+		
+		<div class="card">
+			<p id="Tries" class="general-stats-value">{{Tries}}</p>
+			<p>Essais</p>
+		</div>
+		
+		<div class="card">
+			<p id="Conversions" class="general-stats-value">{{Conversions}}</p>
+			<p>Conversions</p>
+		</div>
+		
+		<div class="card">
+			<p id="TackleSuccess" class="general-stats-value">{{TackleSuccess}} %</p>
+			<p>TackleSuccess</p>
+		</div>
+	</div>
+	
+	<!-- statistiques approfondies -->
+	<h2>Statistiques approfondies</h2>
+	
+	<div class="extended-stats">
+		
+		<div class="card">
+			<p>Tackles</p>
+			<p id="Tackles">{{Tackles}}</p>
+		</div>
+		
+		<div class="card">
+			<p>Won</p>
+			<p id="Won">{{Won}}</p>
+		</div>
+		
+		<div class="card">
+			<p>Lost</p>
+			<p id="Lost">{{Lost}}</p>
+		</div>
+		
+		<div class="card">
+			<p>Drawn</p>
+			<p id="Drawn">{{Drawn}}</p>
+		</div>
+		
+		<div class="card">
+			<p>DropGoals</p>
+			<p id="DropGoals">{{DropGoals}}</p>
+		</div>
+		
+		<div class="card">
+			<p>Missed Conversions</p>
+			<p id="MissedConversions">{{MissedConversions}}</p>
+		</div>
+		
+		<div class="card">
+			<p>Missed Drop Goals</p>
+			<p id="MissedDropGoals">{{MissedDropGoals}}</p>
+		</div>
+		
+		<div class="card">
+			<p>Penalties</p>
+			<p id="Penalties">{{Penalties}}</p>
+		</div>
+		
+		<div class="card">
+			<p>Missed Penalties</p>
+			<p id="MissedPenalties">{{MissedPenalties}}</p>
+		</div>
+		
+		<div class="card">
+			<p>Points For</p>
+			<p id="PointsFor">{{PointsFor}}</p>
+		</div>
+		
+		<div class="card">
+			<p>Points Against</p>
+			<p id="PointsAgainst">{{PointsAgainst}}</p>
+		</div>
+		
+		<div class="card">
+			<p>Used Replacement</p>
+			<p id="UsedReplacement">{{UsedReplacement}}</p>
+		</div>
+		
+		<div class="card">
+			<p>Red Cards</p>
+			<p id="RedCards">{{RedCards}}</p>
+		</div>
+		
+		<div class="card">
+			<p>Yellow Cards</p>
+			<p id="YellowCards">{{YellowCards}}</p>
+		</div>
+		
+	</div>
+</body>

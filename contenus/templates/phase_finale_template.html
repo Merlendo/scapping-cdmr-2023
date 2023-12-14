@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+	<head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" type="text/css" href="css/phase_finale.css">
+        <link rel="stylesheet" type="text/css" href="css/data_teams.css">
+		<title >Phase finale</title>
+
+    </head>
+
+<body>
+
+    <h1>Phase final de la coupe du monde 2023</h1>
+
+	<!-- Section pour afficher les détails des matchs -->
+    <div class="matchs">
+        <div class="quart">
+            <h2>Quart de finale</h2>
+            
+            {{matchs_quart}}
+                
+        </div>
+            
+        <div class="demi">
+            <h2>Demi finale</h2>
+
+            {{matchs_demi}}
+        
+        </div>
+
+        <div class="finale">
+            
+            <!-- <div class="match" style="background-color: #0d5dae;" height="200" width="180"></div>
+
+            <br> -->
+
+            <h2>Finale</h2>
+
+            {{match_finale}}
+                
+
+            <h2>Petite finale</h2>
+
+            {{match_bronze}}
+
+        </div>
+    </div>
+    
+   <!-- Section pour afficher les détails des matchs -->
+   <h2>Détails matchs</h2>
+	
+   <div class="matchs_details">
+        {{liste_matchs}}
+   </div>
+   		
+</body>
+</html>

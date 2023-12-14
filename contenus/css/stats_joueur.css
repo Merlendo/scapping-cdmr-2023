@@ -1,0 +1,101 @@
+body
+{
+	font-family: 'Arial', sans-serif;
+    background-color: var(--primary-colour);
+}
+
+p, span, h2
+{
+	font-size: 2rem;
+}
+
+h1, h2:not(#name)
+{
+	color: #fff;
+}
+
+#title
+{
+	text-align: center;
+}
+
+.logos
+{
+	display: flex;
+	gap: 0px 20px;
+
+}
+
+.general-stats-value
+{
+	font-size: 3rem;
+	margin-bottom: 0px;
+
+}
+
+.shield
+{
+	width: 70px;
+	height: 100px;
+	background-image: var(--flag-shield-path);
+	background-size: contain; 
+	background-position: center center; 
+	background-repeat: no-repeat; 
+}
+
+.emblem
+{
+	width: 70px;
+	height: 100px;
+	background-image: var(--union-emblem-path);
+	background-size: contain; 
+	background-position: center center; 
+	background-repeat: no-repeat; 
+}
+
+.card
+{
+	display: flex;
+	border-radius: 20px;
+	background-color: #fff;
+	justify-content: space-between;
+	width: 100%;
+	box-shadow: 5px 5px 0px var(--secondary-color);
+}
+
+.left, .right
+{
+	margin: auto;
+}
+
+.general-stats
+{
+	display: flex;
+	gap: 0px 10px;
+
+}
+
+.general-stats .card 
+{
+	justify-content: end;
+	padding: 20px;
+	flex-direction: column;
+	align-items: center;
+}
+
+.extended-stats 
+{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 10px;
+}
+
+.extended-stats .card
+{
+	flex-basis: 40%;
+	width: auto;
+	padding-left: 10px;
+	padding-right: 10px;
+}

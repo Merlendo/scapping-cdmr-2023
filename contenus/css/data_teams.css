@@ -1,0 +1,220 @@
+.team-ARG {
+  --primary-colour:#75a9db;
+  --secondary-color:#f3b219;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-argentina.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/ARG.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-argentina.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-argentina-alt.svg)
+}
+.team-AUS {
+  --primary-colour:#1c4942;
+  --secondary-color:#fac221;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-australia.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/AUS.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-australia.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-australia-alt.svg)
+}
+.team-CHI {
+  --primary-colour:#c22627;
+  --secondary-color:#313f97;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-chile.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/CHI.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-chile.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-chile.svg)
+}
+.team-ENG {
+  --primary-colour:#e42829;
+  --secondary-color:#fff;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-england.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/ENG.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-england.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-england-alt.svg)
+}
+.team-FIJ,
+.team-FJI {
+  --primary-colour:#000;
+  --secondary-color:#fff;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-fiji.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/FIJ.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-fiji.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-fiji-alt.svg)
+}
+.team-FRA {
+  --primary-colour:#263a81;
+  --secondary-color:#e82e3d;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-france.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/FRA.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-france.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-france-alt.svg)
+}
+.team-GEO {
+  --primary-colour:#7e014f;
+  --secondary-color:#fff;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-georgia.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/GEO.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-georgia.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-georgia-alt.svg)
+}
+.team-IRE,
+.team-IRL {
+  --primary-colour:#017a4f;
+  --secondary-color:#fff;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-ireland.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/IRE.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-ireland.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-ireland-alt.svg)
+}
+.team-ITA {
+  --primary-colour:#2b87c8;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-italy.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/ITA.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-italy.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-italy-alt.svg)
+}
+.team-ITA,
+.team-JPN {
+  --secondary-color:#fff
+}
+.team-JPN {
+  --primary-colour:#e42829;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-japan.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/JPN.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-japan.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-japan.svg)
+}
+.team-NAM {
+  --primary-colour:#29387d;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-namibia.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/NAM.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-namibia.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-namibia-alt.svg)
+}
+.team-NAM,
+.team-NZL {
+  --secondary-color:#fff
+}
+.team-NZL {
+  --primary-colour:#000;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-new-zealand.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/NZL.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-new-zealand.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-new-zealand-alt.svg)
+}
+.team-POR,
+.team-PRT {
+  --primary-colour:#e42427;
+  --secondary-color:#2d6a35;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-portugal.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/POR.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-portugal.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-portugal-alt.svg)
+}
+.team-ROM,
+.team-ROU {
+  --primary-colour:#174195;
+  --secondary-color:#f1cf2f;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-romania.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/ROM.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-romania.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-romania.svg)
+}
+.team-SAM {
+  --primary-colour:#011f5b;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-samoa.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/SAM.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-samoa.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-samoa-alt.svg)
+}
+.team-SAM,
+.team-SCO {
+  --secondary-color:#fff
+}
+.team-SCO {
+  --primary-colour:#222b52;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-scotland.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/SCO.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-scotland.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-scotland-alt.svg)
+}
+.team-RSA {
+  --primary-colour:#003a45;
+  --secondary-color:#f2b217;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-south-africa.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/RSA.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-south-africa.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-south-africa-alt.svg)
+}
+.team-TGA {
+  --primary-colour:#ad1f25;
+  --secondary-color:#fff;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-tonga.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/TGA.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-tonga.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-tonga.svg)
+}
+.team-URU {
+  --primary-colour:#1e439b;
+  --secondary-color:#00ade9;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-uruguay.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/URU.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-uruguay.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-uruguay-alt.svg)
+}
+.team-WAL {
+  --primary-colour:#d31f3a;
+  --secondary-color:#21a64d;
+  --bg-country-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/country-wales.svg);
+  --flag-shield-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/elements/team-badges/WAL.png);
+  --union-emblem-path:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-wales.svg);
+  --union-emblem-path-alt:url(https://www.rugbyworldcup.com/rwc2023-resources/prod/rwc2023_v6.6.0/i/svg-files/elements/bg/teams/union-emblem-wales-alt.svg)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Couleur texte pour pays à couleur claire */
+
+/* Couleur texte pour pays à couleur sombre */
+.team-ARG,  
+.team-AUS, 
+.team-CHI, 
+.team-ENG, 
+.team-FIJ, 
+.team-FRA, 
+.team-GEO, 
+.team-IRE, 
+.team-ITA, 
+.team-JPN, 
+.team-NAM, 
+.team-NZL, 
+.team-POR, 
+.team-ROU, 
+.team-RSA, 
+.team-SAM, 
+.team-SCO, 
+.team-TGA, 
+.team-URU, 
+.team-WAL
+
+{
+	--color-text: #fff;
+}

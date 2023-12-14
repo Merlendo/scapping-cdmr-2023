@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+	<head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" type="text/css" href="css/phase_poule.css">
+        <link rel="stylesheet" type="text/css" href="css/data_teams.css">
+		<title >Poule {{lettre_poule}}</title>
+
+    </head>
+
+<body>
+
+	<!-- En-tête de la page avec le titre de la poule -->
+    <h1>Poule {{lettre_poule}}</h1>
+
+	<!-- Section pour afficher le classement des équipes -->
+    <h2>Classement</h2>
+    
+    <div class = "table">
+        <!-- Tableau affichant le classement -->
+        {{table}}
+
+    </div>
+
+    <br>
+    <br>
+    <br>
+
+	<!-- Section pour afficher les détails des matchs -->
+    <h2>Matchs</h2>
+		
+    {{liste_matchs}}
+		
+</body>
+</html>
