@@ -1,3 +1,5 @@
+# Scrapping de la coupe du monde de rugby 2023
+
 Projet fait avec Python 3.12.0
 
 Pour lancer le programme il faut d'abort créer un environnement virtuel
